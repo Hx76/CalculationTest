@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CalculationTest</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">口算测试</string>
+    <string name="title2">口算测试</string>
+    <string name="score">最高纪录：%d</string>
+    <string name="score2">得分：%d</string>
+    <string name="lose">你本次的战果：%d</string>
+    <string name="succeed">创造了新纪录：%d</string>
+</resources>
